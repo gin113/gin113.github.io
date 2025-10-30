@@ -3,4 +3,4 @@
 User-agent: *
 Disallow: /build.txt
 
-Sitemap: https://eleventyplusvite.netlify.app/sitemap.xml
+Sitemap: https://joker-cms.com/sitemap.xml
